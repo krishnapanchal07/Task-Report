@@ -32,7 +32,7 @@ JWT_SECRET=your_secret_key
 3.run server first usiing this command
 npm run dev
 
-it will run on http://localhost:3000
+it will run on http://localhost:5000
 
 # Frontend Setup (in /task-App folder)
 
@@ -44,7 +44,7 @@ it will run on http://localhost:3000
 3. run the frontend-app
 npm start
 
-it should be in run on http://localhost:3001 because of cors origin
+it should be in run on http://localhost:3000 because of cors origin
 
 # Features
 
